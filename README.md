@@ -5,24 +5,39 @@ This is an interactive OpenGL program that simulates the changing seasons with a
 STEPS:
 
 1.Download VSCode (https://code.visualstudio.com/download)
+
 2.Download MSYS2 (https://www.msys2.org/)
+
 3.Generate and Download Glad (https://glad.dav1d.de/)
+
 4.Install VSCode
+
 5.Install MSYS2
+
 6.Put Glad on MSYS2
+
 7.Edit Environment Variables for MSYS2
+
 8.Configure VSCode
+
 9.Download Extension
+
 10.Add ExecutorMap
+
 11.Add IncludePath
+
 12.Testing
 
 MSYS2 command:(MSYS2 MINGW64)
 
 1.pacman -Syu
+
 2.pacman -S mingw-w64-x86_64-toolchain
+
 3.pacman -S mingw-w64-x86_64-glew
+
 4.pacman -S mingw-w64-x86_64-glfw
+
 5.pacman -S mingw-w64-x86_64-freeglut
 
 VSCODE Extension:
